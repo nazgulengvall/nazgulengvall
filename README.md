@@ -26,7 +26,7 @@ Aspiring Junior System Developer | Sweden
 
 ## 👋 About Me
 
-I am a recent graduate with dual bachelor's degrees in Business Administration and Information System Development. My passion lies in transforming complex ideas into practical solutions through innovative IT and cloud technologies. With a strong foundation in project management, web development, and digital transformation, I am fluent in Swedish, English, Russian, and Kyrgyz. Currently, I am preparing for the Azure Solution Architect and Google Cloud Digital Leader certifications.
+I am a recent graduate with dual bachelor's degrees in Business Administration and Information System Development. My passion lies in transforming complex ideas into practical solutions through innovative IT and cloud technologies. I have a strong foundation in project management, web development, and digital transformation. I am fluent in Swedish, English, Russian, and Kyrgyz. Currently, I am preparing for the Azure Solution Architect and Google Cloud Digital Leader certifications.
 
 ---
 
